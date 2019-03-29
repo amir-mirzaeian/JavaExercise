@@ -19,6 +19,6 @@ public class SumAverageRunningInt {
         }
 
         float avg =(float)sum / 100;
-        System.out.println("Sum:" +sum + ", average:" + avg);
+        System.out.println("Sum:" +sum + " , Average:" + avg);
     }
 }
