@@ -1,4 +1,4 @@
-package com.amir.java.exercise.oddoreven;
+package com.amir.java.exercise;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
